@@ -1,1 +1,1 @@
-A js library for encrypting and decrypting
+A js library for encrypting and decrypting.
